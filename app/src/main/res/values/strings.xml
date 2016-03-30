@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QTip</string>
+    <string name="total">Total Amount</string>
+    <string name="fifteen">15%</string>
+    <string name="twenty">20%</string>
+    <string name="other">other</string>
+    <string name="cal">Calculate</string>
+</resources>
